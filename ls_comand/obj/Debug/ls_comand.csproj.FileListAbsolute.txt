@@ -1,0 +1,6 @@
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ls_comand\ls_comand\bin\Debug\ls_comand.exe.config
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ls_comand\ls_comand\bin\Debug\ls_comand.exe
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ls_comand\ls_comand\bin\Debug\ls_comand.pdb
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ls_comand\ls_comand\obj\Debug\ls_comand.csprojResolveAssemblyReference.cache
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ls_comand\ls_comand\obj\Debug\ls_comand.exe
+c:\users\migue\onedrive\documentos\visual studio 2015\Projects\ls_comand\ls_comand\obj\Debug\ls_comand.pdb
